@@ -1,0 +1,8 @@
+{
+  "name": "GeminiStation Dashboard",
+  "description": "A high-fidelity PlayStation 4 inspired dashboard for 'GeminiStation', featuring a custom app carousel, dynamic backgrounds, and an integrated Gemini AI assistant for personalized game recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
